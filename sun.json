@@ -1,0 +1,382 @@
+{
+  "id": "sun-inkolore",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@inkolore_ Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_1bd5ad40df3b",
+    "display_name": "inkolore_",
+    "user_id": "@inkolore_",
+    "description": "Community Archive-derived proof-of-search sun for @inkolore_.",
+    "document_count": 15647,
+    "word_count": 446930,
+    "active_days": 761,
+    "emissions": [
+      "Don",
+      "Life",
+      "Think",
+      "Really",
+      "Something",
+      "Things"
+    ],
+    "generated_at": "2026-06-27T16:16:25.996746+00:00",
+    "color": "#f59e0b",
+    "mass": 13.01
+  },
+  "planets": [
+    {
+      "id": "planet_c3959671ed79",
+      "name": "Don",
+      "summary": "Archive cluster around don: 11873 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "which",
+        "time",
+        "good",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_3c67ea729a35",
+          "title": "Don receipt from 2024-05-18",
+          "excerpt": "started oil painting at 35. Like a lot of people genuinely don't internalize the fact that they could literally start making art at any point in their life, especially right now. Art has taken up the status of the thing that only \"talented\" people do, and it's something you",
+          "source_document_id": "1791747600560837016",
+          "timestamp": "2024-05-18T08:28:11+00:00",
+          "url": "https://x.com/inkolore_/status/1791747600560837016",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, which, time, good."
+        },
+        {
+          "id": "art_bb65c36cd161",
+          "title": "Don receipt from 2024-05-18",
+          "excerpt": "passively consume, or at best analyze, but never make yourself.\n\nEven within exercising itself for instance, it's crazy how many people just go to the gym because they've never considered looking for other alternatives, which would be way more fun and social. Like team sports,",
+          "source_document_id": "1791747602683179373",
+          "timestamp": "2024-05-18T08:28:12+00:00",
+          "url": "https://x.com/inkolore_/status/1791747602683179373",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, which, time, good."
+        },
+        {
+          "id": "art_0e9b62f0d505",
+          "title": "Don receipt from 2024-09-16",
+          "excerpt": "I have this general idea that being slightly too arrogant is better than being too passive, because by being arrogant you expose yourself to real feedback, whereas by being passive you just sit in your corner, and become more and more scared as the years go by.",
+          "source_document_id": "1835638334946714096",
+          "timestamp": "2024-09-16T11:14:18+00:00",
+          "url": "https://x.com/inkolore_/status/1835638334946714096",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, which, time, good."
+        },
+        {
+          "id": "art_20c9e5d40b44",
+          "title": "Don receipt from 2024-05-18",
+          "excerpt": "People just scroll social media because they don't put the time to think of better ways to spend their time. (and then they complain about how much social media sucks and drains their time)",
+          "source_document_id": "1791747606588035179",
+          "timestamp": "2024-05-18T08:28:13+00:00",
+          "url": "https://x.com/inkolore_/status/1791747606588035179",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, which, time, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_03f827d91f15",
+      "proof_score": 1,
+      "mass": 37.867,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_0b531fc6d4a5",
+      "name": "Life",
+      "summary": "Archive cluster around life: 1121 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "life",
+        "things",
+        "think",
+        "which",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ea295d8e7b50",
+          "title": "Life receipt from 2024-05-18",
+          "excerpt": "It's pretty crazy the extent to which people's lives is literally bottleneck by their imagination of what their life can be.\nLike there was tweet floating around about \"what hobbies are there past 25 besides cooking and exercising\" and someone quote-posting, saying how they",
+          "source_document_id": "1791747598316961988",
+          "timestamp": "2024-05-18T08:28:11+00:00",
+          "url": "https://x.com/inkolore_/status/1791747598316961988",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, things, think, which."
+        },
+        {
+          "id": "art_0ec28ffb6185",
+          "title": "Life receipt from 2024-05-18",
+          "excerpt": "a hiking group, running partners, etc.\n\nAnd of course this limitation in imagination trickles down into something way bigger than the individual life, it coalesces into the limited collective life we imagine, but even on the micro life it's incredibly noticeable.",
+          "source_document_id": "1791747604545405403",
+          "timestamp": "2024-05-18T08:28:12+00:00",
+          "url": "https://x.com/inkolore_/status/1791747604545405403",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, things, think, which."
+        },
+        {
+          "id": "art_0879d767b418",
+          "title": "Life receipt from 2023-12-09",
+          "excerpt": "It seems to me that the 2 main bottlenecks in life are:\n1) A lack of courage\n2) A lack of a supportive environment (so friends and family, as well as an environment that supports your creative output for instance)\nAnd I wonder how many problems are either masked versions of those",
+          "source_document_id": "1733404745857937887",
+          "timestamp": "2023-12-09T08:34:31+00:00",
+          "url": "https://x.com/inkolore_/status/1733404745857937887",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, things, think, which."
+        },
+        {
+          "id": "art_96f3e4b5d8e6",
+          "title": "Life receipt from 2024-08-24",
+          "excerpt": "Not one of those things that is easily repaired because it's obviously a major societal trend with tons of momentum and conflicting interests at play, but like ultimately what I see is: most individuals suffer tremendously from a lack of a supportive environment in their life,",
+          "source_document_id": "1827362363189719366",
+          "timestamp": "2024-08-24T15:08:32+00:00",
+          "url": "https://x.com/inkolore_/status/1827362363189719366",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, things, think, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_faf2d42a719f",
+      "proof_score": 1,
+      "mass": 32.06,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_68622fc6c501",
+      "name": "Think",
+      "summary": "Archive cluster around think: 760 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "something",
+        "really",
+        "way",
+        "lot"
+      ],
+      "artifacts": [
+        {
+          "id": "art_26a7b7374f38",
+          "title": "Think receipt from 2024-08-24",
+          "excerpt": "I think the major reason why people feel overwhelmed, constantly tired out, out of time, etc. is simply because they're doing stuff by themselves when historically people did stuff with their family and local community.\nLike yeah there is a major skill issue where people zombie",
+          "source_document_id": "1827361346117067176",
+          "timestamp": "2024-08-24T15:04:30+00:00",
+          "url": "https://x.com/inkolore_/status/1827361346117067176",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, really, way."
+        },
+        {
+          "id": "art_0a54b6035bed",
+          "title": "Think receipt from 2024-09-16",
+          "excerpt": "I think there is a way to make this even more colorful by making an analogy with temperature, but I haven't found the right one.\nSomething like: hot-headed people tend to cool down over time, whereas frigid ones require an active input for them to change.",
+          "source_document_id": "1835638337094189533",
+          "timestamp": "2024-09-16T11:14:18+00:00",
+          "url": "https://x.com/inkolore_/status/1835638337094189533",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, really, way."
+        },
+        {
+          "id": "art_427f925c5362",
+          "title": "Think receipt from 2024-04-06",
+          "excerpt": "I think a key reason why people in the modern world are deeply afraid of death is because they're not living, because everything is about pushing things to the future. Like working at a meaningless job so you can have the \"free time\" to do what you want on the weekend,",
+          "source_document_id": "1776649339990843593",
+          "timestamp": "2024-04-06T16:33:05+00:00",
+          "url": "https://x.com/inkolore_/status/1776649339990843593",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, really, way."
+        },
+        {
+          "id": "art_d42c1490385b",
+          "title": "Think receipt from 2024-08-25",
+          "excerpt": "Desperation is such a brutal thing, like how people who are super lonely or in need of love give off vibes that repel those they reach out to.\nI think the stuff that emerges from the internet, like parasocial stuff, makes a lot more sense under that lens. For some people",
+          "source_document_id": "1827781314184925539",
+          "timestamp": "2024-08-25T18:53:18+00:00",
+          "url": "https://x.com/inkolore_/status/1827781314184925539",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, something, really, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e46d52faea42",
+      "proof_score": 1,
+      "mass": 30.845,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_3e4aa18d63bd",
+      "name": "Really",
+      "summary": "Archive cluster around really: 680 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "something",
+        "which",
+        "way",
+        "thing"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b82c44f9d166",
+          "title": "Really receipt from 2024-05-19",
+          "excerpt": "Telling someone \"you can figure it out by yourself\" can actually be really good advice given the right context and the right delivery.\nLike a gentle reminder of their agency and ability to learn.\n\nVery important considering how disempowering our society is, especially school.",
+          "source_document_id": "1792105362235048138",
+          "timestamp": "2024-05-19T08:09:48+00:00",
+          "url": "https://x.com/inkolore_/status/1792105362235048138",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, something, which, way."
+        },
+        {
+          "id": "art_e0dfe4181798",
+          "title": "Really receipt from 2024-03-02",
+          "excerpt": "I feel like if someone gets really good at the crawling phase of learning, they could basically learn anything well, because the initial phase is what sucks the most, and once you can start 'walking' so to speak, things become way more fun and the feedback loop is kicking.",
+          "source_document_id": "1763842159063495024",
+          "timestamp": "2024-03-02T08:21:55+00:00",
+          "url": "https://x.com/inkolore_/status/1763842159063495024",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, something, which, way."
+        },
+        {
+          "id": "art_185f07d7066a",
+          "title": "Really receipt from 2024-07-22",
+          "excerpt": "Reading more into Generators in the Human Design model. The whole thing about 1) you really want to use up all your energy every day, otherwise it's going to be used in other ways (overthinking, addictive behavior, restlessness, anxiety, talking a lot, etc.)",
+          "source_document_id": "1815259282725654625",
+          "timestamp": "2024-07-22T05:35:13+00:00",
+          "url": "https://x.com/inkolore_/status/1815259282725654625",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, something, which, way."
+        },
+        {
+          "id": "art_f59f390176b3",
+          "title": "Really receipt from 2024-07-27",
+          "excerpt": "I often find myself thinking: \"you know, I want to describe this but it sounds wayy too generic, how can I make it more interesting, more vivid, more unique?\"\n\nAnd then I realized that this is one major aspect of poetry lol. (for context: I never really cared much about poetry,",
+          "source_document_id": "1817113380131401832",
+          "timestamp": "2024-07-27T08:22:44+00:00",
+          "url": "https://x.com/inkolore_/status/1817113380131401832",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, something, which, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cea0e4c5e84b",
+      "proof_score": 1,
+      "mass": 30.495,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_5918fde24d8a",
+      "name": "Something",
+      "summary": "Archive cluster around something: 677 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "something",
+        "which",
+        "way",
+        "feel",
+        "time"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e5cf491a074b",
+          "title": "Something receipt from 2024-05-18",
+          "excerpt": "Throwaway notes for myself of something better than \"follow your passion\":\n- Focus on learning and exploring at first\n- Impact + skill + interest in learning &gt; passion. Of course what people mean by \"passion\" often means \"interested in learning it\", but I prefer making it",
+          "source_document_id": "1791856276994929053",
+          "timestamp": "2024-05-18T15:40:02+00:00",
+          "url": "https://x.com/inkolore_/status/1791856276994929053",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, which, way, feel."
+        },
+        {
+          "id": "art_f7b384ad4efc",
+          "title": "Something receipt from 2023-12-23",
+          "excerpt": "The main thing I find myself thinking about is something like: human soul VS parasitic egregores, such as society.\n\nThe soul is the echo of the Universe in every human being, that which seeks connection with other people and the World at large.",
+          "source_document_id": "1738580986613387346",
+          "timestamp": "2023-12-23T15:23:03+00:00",
+          "url": "https://x.com/inkolore_/status/1738580986613387346",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, which, way, feel."
+        },
+        {
+          "id": "art_87072ca8bcf9",
+          "title": "Something receipt from 2024-03-01",
+          "excerpt": "I'm still confused as to why people have such a complicated checklist for relationships.\nWhy isn't it just something like \"someone I love and with whom I can be myself\" ???",
+          "source_document_id": "1763562602162966823",
+          "timestamp": "2024-03-01T13:51:04+00:00",
+          "url": "https://x.com/inkolore_/status/1763562602162966823",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, which, way, feel."
+        },
+        {
+          "id": "art_bb38c8047454",
+          "title": "Something receipt from 2023-12-10",
+          "excerpt": "Giving a shit is the base layer of the pyramid of being good at something.\nAs Beethoven said: \"To play a wrong note is insignificant; to play without passion is inexcusable.\"\nIt's also something you can't teach (in the way schools teach, but definitely possible to facilitate)",
+          "source_document_id": "1733757941042290941",
+          "timestamp": "2023-12-10T07:57:59+00:00",
+          "url": "https://x.com/inkolore_/status/1733757941042290941",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: something, which, way, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1b2b4a4ea181",
+      "proof_score": 1,
+      "mass": 30.377,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_d958c840739f",
+      "name": "Things",
+      "summary": "Archive cluster around things: 536 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "things",
+        "those",
+        "other",
+        "which",
+        "many"
+      ],
+      "artifacts": [
+        {
+          "id": "art_7289acd6e3f4",
+          "title": "Things receipt from 2024-05-19",
+          "excerpt": "@TheHawkster94 if you can't make good art, the practice of art still makes you much better at observing things. I've found a newfound appreciation for \"mundane\" things because I'm much better at looking at fine details and getting a big picture of what I'm seeing.\n\nCare is very important,",
+          "source_document_id": "1792092209614921942",
+          "timestamp": "2024-05-19T07:17:32+00:00",
+          "url": "https://x.com/inkolore_/status/1792092209614921942",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, those, other, which."
+        },
+        {
+          "id": "art_08d99ae8f94d",
+          "title": "Things receipt from 2024-04-06",
+          "excerpt": "and then have the money to buy things or engage in activities etc.\nThere is a sort of hollowing out of the present in favor of some abstract \"better future\", but death destroys that escape",
+          "source_document_id": "1776649342486536340",
+          "timestamp": "2024-04-06T16:33:06+00:00",
+          "url": "https://x.com/inkolore_/status/1776649342486536340",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, those, other, which."
+        },
+        {
+          "id": "art_650e83aa22fb",
+          "title": "Things receipt from 2024-09-17",
+          "excerpt": "Society feels like a cold place. All the work you have to put in just to have a roof over your head in a secure way. And even then, you might not even enjoy your job.\n\nTherefore people tend to gravitate towards things that cannot reject them: porn, video games, social media,",
+          "source_document_id": "1836138938471460931",
+          "timestamp": "2024-09-17T20:23:31+00:00",
+          "url": "https://x.com/inkolore_/status/1836138938471460931",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, those, other, which."
+        },
+        {
+          "id": "art_df329e173a56",
+          "title": "Things receipt from 2024-06-13",
+          "excerpt": "Things people will never admit but which are often causes of other problems, thereby leading them to address secondary issues without looking at these root, almost humiliating to admit, problems:\n\n1) Cowardice\n2) No friends or supportive environment (reinforces 1) too)",
+          "source_document_id": "1801336844455407885",
+          "timestamp": "2024-06-13T19:32:25+00:00",
+          "url": "https://x.com/inkolore_/status/1801336844455407885",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: things, those, other, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7f36fedb4dab",
+      "proof_score": 0.979,
+      "mass": 29.678,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
